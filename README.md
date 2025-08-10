@@ -20,13 +20,14 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 ## 📖 Projects
-* 2023 사각지대 방범 CCTV RC카 및 관제센터 구축
-* [2024 운전자 가시성 향상 브레이크등 제어기 설계](https://github.com/Jinunu99/brakelight_controller)
-* [2024 교통 약자를 위한 지능형 교통 시스템](https://github.com/Jinunu99/Adaptive_TrafficLight)
-* [2025 선박 컨테이너 자동 온습도 관리 시스템](https://github.com/Jinunu99/Container_Management)
-* [2025 FreeRTOS 기반 차량용 CAN ADAS 제어 시스템](https://github.com/Jinunu99/CAN_ADAS)
-* [2025 자동차 외관 품질 관리 시스템](https://github.com/Jinunu99/Faulty_Detection)
 * [2025 사회적 약자를 위한 마트 이동 지원 AGV](https://github.com/Jinunu99/MartAGVrobot_Martkeeper)
+* [2025 자동차 외관 품질 관리 시스템](https://github.com/Jinunu99/Faulty_Detection)
+* [2025 FreeRTOS 기반 차량용 CAN ADAS 제어 시스템](https://github.com/Jinunu99/CAN_ADAS)
+* [2025 선박 컨테이너 자동 온습도 관리 시스템](https://github.com/Jinunu99/Container_Management)
+* [2024 교통 약자를 위한 지능형 교통 시스템](https://github.com/Jinunu99/Adaptive_TrafficLight)
+* [2024 운전자 가시성 향상 브레이크등 제어기 설계](https://github.com/Jinunu99/brakelight_controller)
+* 2023 사각지대 방범 CCTV RC카 및 관제센터 구축
+
 
 ## ✏️ Studys
 * [Atmega128 기본 제어](https://github.com/Jinunu99/Atmega_BasicControl)
