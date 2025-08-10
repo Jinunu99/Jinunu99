@@ -28,6 +28,10 @@
 * [2025 자동차 외관 품질 관리 시스템](https://github.com/Jinunu99/Faulty_Detection)
 * [2025 사회적 약자를 위한 마트 이동 지원 AGV](https://github.com/Jinunu99/MartAGVrobot_Martkeeper)
 
+## ✏️ Studys
+* [Atmega128 기본 제어](https://github.com/Jinunu99/Atmega_BasicControl)
+* [STM32F411RE 기본 제어](https://github.com/Jinunu99/STM32_BasicControl)
+
 <!--
 **Jinunu99/Jinunu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
